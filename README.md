@@ -4,7 +4,7 @@ Dashboard interativo em **HTML de arquivo único**, construído a partir da plan
 
 ## Acessar o painel
 
-- **Dashboard publicado:** `COLE_AQUI_O_LINK_DO_GITHUB_PAGES_APOS_PUBLICAR`
+- **Dashboard publicado:** `https://isadorarochaborges-art.github.io/porsche-sales-dashboard/`
 - **Arquivo para executar:** [`index.html`](index.html) — basta abrir em qualquer navegador atual.
 - **Base para conferência:** [`dados_sanitizados.csv`](dados_sanitizados.csv) — campos sanitizados utilizados pelo painel. O CSV não é necessário para que o HTML funcione.
 - **Evidências visuais:** confira os arquivos de imagem `evidencia-dashboard.png` e `evidencia-filtro.png`, caso presentes.
