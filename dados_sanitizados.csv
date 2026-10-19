@@ -1,0 +1,101 @@
+﻿sale_id,sale_date_sanitized,porsche_model,model_year,sale_price_usd,vehicle_mileage_mi,payment_method,city,state,delivery_status
+6,INVALID,718 Cayman,2022,79500.00,9800,Credit Card,Boston,MA,Delivered
+7,2024-03-14,911 Turbo S,2024,235000.00,1200,Wire Transfer,Seattle,WA,Delivered
+8,2024-04-18,Cayenne Coupe,2023,112750.00,6400,Financing,Austin,TX,In Transit
+9,INVALID,Macan S,2021,68900.00,28,Cash,Denver,CO,Pending
+10,2024-05-22,Taycan 4S,2024,121000.00,0,Bank Transfer,Los Angeles,CA,Delivered
+11,2024-08-06,Panamera 4,2023,104500.00,14500,Credit Card,Miami,FL,Cancelled
+12,2024-07-11,911 Carrera S,2020,96300.00,41000,Lease,New York,NY,Delivered
+13,INVALID,Cayenne E-Hybrid,2022,89750.00,11744,Wire Transfer,San Diego,CA,Pending Approval
+14,2024-08-19,718 Boxster,2021,73500.00,22300,Debit Card,Chicago,IL,Shipped
+15,2024-09-02,Macan GTS,2024,95000.00,3500,Financing,Phoenix,AZ,In Transit
+16,2024-09-17,Taycan Turbo,2023,153200.50,11,ACH Payment,Dallas,TX,Delivered
+17,INVALID,911 GT3,2024,241000.00,750,Wire Transfer,Las Vegas,NV,Pending
+18,2024-05-11,Panamera Turbo S,2022,132000.00,19250,Cash,San Jose,CA,Delivered
+19,2024-12-12,Cayenne Turbo GT,2024,188000.00,2100,Crypto Payment,Houston,TX,Awaiting Delivery
+20,2024-12-25,911 Carrera Cabriolet,2023,127800.00,12000,Credit Card,Atlanta,GA,Delivered
+21,2025-01-06,Macan,2021,58900.00,33700,Bank Transfer,Orlando,FL,Pending
+22,INVALID,718 Spyder RS,2024,164000.00,900,Financing,Portland,OR,In Transit
+23,2025-02-14,Taycan Cross Turismo,2023,118500.00,7800,Wire Transfer,Charlotte,NC,Delivered
+24,INVALID,Cayenne S,2022,91300.00,16000,Credit Card,Nashville,TN,Pending
+25,2025-03-21,911 Targa 4S,2024,158750.00,2500,Lease,Minneapolis,MN,Delivered
+26,2025-03-28,Panamera,2020,72000.00,49000,Bank Transfer,Philadelphia,PA,Cancelled
+27,2025-04-09,Macan Electric,2025,86500.00,0,Wire Transfer,San Antonio,TX,Delivered
+28,INVALID,911 Dakar,2024,270000.00,1050,Cash,Salt Lake City,UT,Awaiting Pickup
+29,2025-05-12,Taycan GTS,2023,139000.00,6250,Financing,Raleigh,NC,In Transit
+30,2025-06-18,Cayenne,2021,76800.00,38400,Credit Card,Detroit,MI,Delivered
+31,INVALID,718 Cayman GT4 RS,2024,173600.00,400,Wire Transfer,Columbus,OH,Pending
+32,2025-07-07,911 Carrera GTS,2022,119900.00,13600,Cash,Indianapolis,IN,Delivered
+33,2025-07-22,Panamera 4 E-Hybrid,2023,109250.00,8900,Lease,Fort Worth,TX,In Transit
+34,2025-08-14,Macan T,2022,82000.00,21750,Wire Transfer,Jacksonville,FL,Delivered
+35,2025-09-01,Taycan Turbo S,2025,214000.00,0,Crypto Payment,San Diego,CA,Pending Review
+36,INVALID,911 Carrera,2024,124500.00,4800,Credit Card,Tampa,FL,Delivered
+37,2025-09-18,Cayenne S,2023,98200.00,12200,Bank Transfer,Sacramento,CA,Pending
+38,2025-10-04,Macan,2022,67500.00,24100,Financing,Cleveland,OH,Delivered
+39,2025-10-12,Taycan,2025,116900.00,0,Wire Transfer,Milwaukee,WI,In Transit
+40,2025-10-29,Panamera 4S,2024,112000.00,10,Cash,Kansas City,MO,Delivered
+41,2025-02-11,718 Boxster,2021,74000.00,31000,Debit Card,Omaha,NE,Cancelled
+42,2025-11-16,911 Turbo,2024,198300.00,2400,Wire Transfer,Albuquerque,NM,Awaiting Delivery
+43,INVALID,Cayenne Coupe,2023,103750.00,6773,Wire Transfer,Tucson,AZ,Pending Approval
+44,INVALID,Macan GTS,2024,93600.00,5800,Financing,Fresno,CA,Shipped
+45,2025-12-07,Taycan 4S,2025,129000.00,0,ACH Payment,Virginia Beach,VA,In Transit
+46,2025-12-22,Panamera Turbo,2022,136000.00,18400,Credit Card,Colorado Springs,CO,Delivered
+47,INVALID,911 GT3 RS,2024,286500.00,700,Wire Transfer,Arlington,TX,Pending
+48,2026-01-08,Cayenne E-Hybrid,2023,92800.00,15000,Lease,Bakersfield,CA,Delivered
+49,2026-01-15,Macan T,2022,72400.00,19750,Cash,Mesa,AZ,Awaiting Pickup
+50,2026-01-28,Taycan Turbo,2025,158500.00,3200,Crypto Payment,Atlanta,GA,Delivered
+51,2026-02-03,718 Cayman,2021,69900.00,27600,Bank Transfer,Long Beach,CA,Pending
+52,INVALID,911 Targa 4,2024,141250.00,2100,Financing,Oakland,CA,In Transit
+53,2026-02-19,Panamera,2020,71500.00,52000,Wire Transfer,Tulsa,OK,Delivered
+54,2026-02-25,Cayenne Turbo,2023,146800.00,11300,Credit Card,Wichita,KS,Pending
+55,2026-03-01,Macan Electric,2025,89700.00,0,Lease,New Orleans,LA,Delivered
+56,2026-03-14,911 Carrera S,2022,104600.00,15900,Bank Transfer,Honolulu,HI,Cancelled
+57,INVALID,Taycan GTS,2024,142000.00,6600,Wire Transfer,Anaheim,CA,Delivered
+58,2026-04-08,Cayenne,2021,78400.00,40250,Cash,Henderson,NV,Awaiting Review
+59,INVALID,718 Spyder RS,2025,169000.00,850,Financing,Lexington,KY,In Transit
+60,2026-04-21,911 Dakar,2024,268900.00,1400,Credit Card,Riverside,CA,Delivered
+61,2026-04-29,Panamera 4,2023,101300.00,12700,Wire Transfer,Corpus Christi,TX,Pending
+62,2026-05-05,Macan S,2021,66750.00,29800,Cash,St. Louis,MO,Delivered
+63,2026-05-14,Taycan Cross Turismo,2024,127900.00,7500,Lease,Pittsburgh,PA,In Transit
+64,2026-05-23,Cayenne Turbo GT,2025,200000.00,1950,Wire Transfer,Cincinnati,OH,Delivered
+65,2026-06-02,911 Carrera Cabriolet,2023,132000.00,8800,Crypto Payment,Anchorage,AK,Pending Review
+66,2026-06-15,718 Cayman GT4 RS,2024,176400.00,600,Credit Card,Plano,TX,Delivered
+67,INVALID,Panamera 4 E-Hybrid,2022,108500.00,16200,Bank Transfer,Newark,NJ,Cancelled
+68,2026-07-07,Macan,2021,59000.00,36000,Financing,Greensboro,NC,Awaiting Delivery
+69,2026-07-20,Taycan Turbo S,2025,218000.00,0,Wire Transfer,Lincoln,NE,Pending
+70,INVALID,Cayenne S,2024,99950.00,5300,Debit Card,Jersey City,NJ,Delivered
+71,2026-04-08,911 Carrera GTS,2024,121750.00,5872,Credit Card,Chandler,AZ,Delivered
+72,2026-08-18,718 Boxster GTS,2023,91500.00,13300,Lease,Reno,NV,Shipped
+73,2026-08-31,Panamera Turbo S,2022,134000.00,20100,Wire Transfer,Buffalo,NY,In Transit
+74,2026-09-09,Macan GTS,2024,96800.00,0,ACH Payment,Durham,NC,Delivered
+75,2026-09-17,Taycan 4S,2025,131600.00,2900,Wire Transfer,Laredo,TX,Pending Approval
+76,2026-09-28,Cayenne E-Hybrid,2023,94300.00,13100,Cash,Madison,WI,Delivered
+77,2026-10-06,911 Turbo S,2025,242000.00,1100,Crypto Payment,Lubbock,TX,Awaiting Pickup
+78,2026-10-16,718 Cayman S,2022,82750.00,22500,Credit Card,Toledo,OH,Cancelled
+79,2026-10-29,Macan Electric,2026,91300.00,0,Wire Transfer,Irvine,CA,Delivered
+80,2026-11-03,Panamera,2021,79900.00,44800,Financing,Garland,TX,Pending
+81,INVALID,Cayenne Coupe,2024,111000.00,6700,Bank Transfer,Irving,TX,In Transit
+82,2026-12-11,911 Targa 4S,2023,156500.00,4200,Cash,Chesapeake,VA,Delivered
+83,2026-12-24,Taycan,2025,119900.00,1250,Lease,Scottsdale,AZ,Pending
+84,INVALID,Macan T,2022,73200.00,18600,Wire Transfer,Norfolk,VA,Delivered
+85,2026-12-28,911 GT3,2024,224000.00,3000,Wire Transfer,Boise,ID,Awaiting Delivery
+86,2027-01-15,911 Carrera,2024,126900.00,7200,Credit Card,Orlando,FL,Delivered
+87,2027-01-29,Cayenne,2023,84500.00,21400,Bank Transfer,San Jose,CA,Pending
+88,2027-02-11,Macan S,2022,69800.00,26300,Financing,Tampa,FL,Delivered
+89,INVALID,Taycan 4S,2025,132700.00,0,Wire Transfer,Denver,CO,In Transit
+90,2027-03-05,Panamera,2021,81000.00,42,Cash,Austin,TX,Delivered
+91,2027-03-18,718 Cayman,2023,78900.00,17500,Debit Card,Seattle,WA,Cancelled
+92,2027-04-02,911 Turbo S,2026,249300.00,900,Wire Transfer,Boston,MA,Awaiting Delivery
+93,INVALID,Cayenne Coupe,2024,108750.00,5530,Wire Transfer,Phoenix,AZ,Pending Approval
+94,INVALID,Macan Electric,2026,92600.00,0,Financing,Chicago,IL,Shipped
+95,2027-05-12,Taycan Turbo,2025,164000.00,0,ACH Payment,Dallas,TX,In Transit
+96,2027-05-27,Panamera 4S,2024,119000.00,13400,Credit Card,San Francisco,CA,Delivered
+97,INVALID,911 GT3,2026,232500.00,1700,Wire Transfer,Las Vegas,NV,Pending
+98,2027-06-18,Cayenne E-Hybrid,2023,96800.00,14000,Lease,Charlotte,NC,Delivered
+99,2027-07-03,Macan T,2022,74400.00,20750,Cash,Mesa,AZ,Awaiting Pickup
+100,2027-07-22,Taycan GTS,2025,148500.00,5200,Crypto Payment,Atlanta,GA,Delivered
+101,2027-08-08,718 Boxster,2021,71900.00,29600,Bank Transfer,Long Beach,CA,Pending
+102,INVALID,911 Targa 4,2024,143250.00,3100,Financing,Oakland,CA,In Transit
+103,2027-09-19,Panamera Turbo,2020,137500.00,48000,Wire Transfer,Tulsa,OK,Delivered
+104,2027-09-25,Cayenne Turbo GT,2025,204800.00,3300,Credit Card,Wichita,KS,Pending
+105,2027-10-01,911 Dakar,2024,271700.00,1050,Lease,New Orleans,LA,Delivered
