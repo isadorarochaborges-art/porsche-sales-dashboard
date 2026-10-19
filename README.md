@@ -58,32 +58,6 @@ Além dessas perguntas, o painel apresenta quatro indicadores (quantidade de neg
 ## Ferramenta e método
 
 **ChatGPT em conversa direta**, com análise da planilha anexada e geração de código HTML/CSS/JavaScript. **Não foi utilizado Canvas nem agente customizado com skill**. O HTML foi montado e refinado especificamente para as três perguntas escolhidas.
-
-## Como publicar no GitHub Pages (passo a passo)
-
-1. Entre em [github.com](https://github.com/) e crie um **novo repositório público** (por exemplo, `porsche-sales-dashboard`).
-2. Envie para a **raiz** do repositório os arquivos `index.html`, `README.md` e, opcionalmente, `dados_sanitizados.csv` e as imagens de evidência.
-3. Abra **Settings → Pages → Build and deployment**.
-4. Em **Source**, escolha **Deploy from a branch**. Em **Branch**, selecione `main` e a pasta `/ (root)`, depois **Save**.
-5. Aguarde a publicação. O endereço geralmente será `https://SEU-USUARIO.github.io/porsche-sales-dashboard/` (confirme o link mostrado pelo GitHub).
-6. Abra o endereço no navegador e teste os filtros. Depois, **substitua o campo do link** no início deste README pelo endereço real e envie a alteração ao GitHub.
-
-> O GitHub Pages e o link público precisam ser ativados na **sua conta**. Os arquivos entregues já estão prontos para upload, mas a publicação não acontece automaticamente.
-
-## Roteiro de revisão / testes
-
-- Abra `index.html` e confira que o recorte completo apresenta **100 registros**, **US$ 12,83 mi** e **41% entregues**.
-- Escolha o estado `CA`: os KPIs, os rankings, a rosca, o insight e a tabela devem atualizar juntos. Em seguida, clique em **Limpar todos**.
-- Clique em uma barra de modelo e depois em uma linha da legenda de pagamentos para testar os filtros cruzados.
-- Use o filtro **Status = Delivered** para restringir a análise aos registros entregues.
-- Experimente a busca da tabela, a paginação, a exportação CSV e uma tela estreita (celular).
-
-## Organização dos arquivos
-
-```text
-porsche_dashboard/
-├── index.html                 # Painel final (autônomo)
-├── README.md                  # Documentação da entrega
 ├── dados_sanitizados.csv      # Conferência dos dados (opcional)
 ├── evidencia-dashboard.png   # Tela inicial, se capturada
 └── evidencia-filtro.png       # Filtro de estado CA, se capturado
